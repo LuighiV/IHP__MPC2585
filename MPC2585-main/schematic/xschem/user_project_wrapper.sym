@@ -72,14 +72,9 @@ L 7 280 -1140 300 -1140 {}
 L 7 280 -1180 300 -1180 {}
 L 7 280 -1220 300 -1220 {}
 L 7 280 -1300 300 -1300 {}
-L 7 960 -300 960 -280 {}
 L 7 1940 -1140 1960 -1140 {}
 L 7 1940 -1260 1960 -1260 {}
 L 7 1940 -1380 1960 -1380 {}
-L 7 1000 -300 1000 -280 {}
-L 7 1040 -300 1040 -280 {}
-L 7 1080 -300 1080 -280 {}
-L 7 1240 -300 1240 -280 {}
 L 7 1940 -1340 1960 -1340 {}
 L 7 1940 -1300 1960 -1300 {}
 L 7 1940 -1220 1960 -1220 {}
@@ -87,10 +82,6 @@ L 7 1940 -1180 1960 -1180 {}
 L 7 0 -40 20 -40 {}
 L 7 280 -1260 300 -1260 {}
 L 7 280 -1380 300 -1380 {}
-L 7 1120 -300 1120 -280 {}
-L 7 1160 -300 1160 -280 {}
-L 7 1200 -300 1200 -280 {}
-L 7 1280 -300 1280 -280 {}
 L 7 1940 -1100 1960 -1100 {}
 L 7 1940 -1420 1960 -1420 {}
 L 7 1270 -1960 1270 -1940 {}
@@ -161,14 +152,9 @@ B 5 297.5 -1142.5 302.5 -1137.5 {name=ui_PAD2CORE[1] dir=inout}
 B 5 297.5 -1182.5 302.5 -1177.5 {name=ui_PAD2CORE[2] dir=inout}
 B 5 297.5 -1222.5 302.5 -1217.5 {name=ui_PAD2CORE[3] dir=inout}
 B 5 297.5 -1302.5 302.5 -1297.5 {name=analog_io_padres[1] dir=inout}
-B 5 957.5 -302.5 962.5 -297.5 {name=analog_io_padres[5] dir=inout}
 B 5 1937.5 -1142.5 1942.5 -1137.5 {name=analog_io_padres[15] dir=inout}
 B 5 1937.5 -1262.5 1942.5 -1257.5 {name=ui_PAD2CORE[4] dir=inout}
 B 5 1937.5 -1382.5 1942.5 -1377.5 {name=ui_PAD2CORE[7] dir=inout}
-B 5 997.5 -302.5 1002.5 -297.5 {name=analog_io_padres[6] dir=inout}
-B 5 1037.5 -302.5 1042.5 -297.5 {name=analog_io_padres[7] dir=inout}
-B 5 1077.5 -302.5 1082.5 -297.5 {name=analog_io_padres[8] dir=inout}
-B 5 1237.5 -302.5 1242.5 -297.5 {name=analog_io_padres[12] dir=inout}
 B 5 1937.5 -1342.5 1942.5 -1337.5 {name=ui_PAD2CORE[6] dir=inout}
 B 5 1937.5 -1302.5 1942.5 -1297.5 {name=ui_PAD2CORE[5] dir=inout}
 B 5 1937.5 -1222.5 1942.5 -1217.5 {name=analog_io_padres[17] dir=inout}
@@ -176,10 +162,6 @@ B 5 1937.5 -1182.5 1942.5 -1177.5 {name=analog_io_padres[16] dir=inout}
 B 5 -2.5 -42.5 2.5 -37.5 {name=SUB dir=inout}
 B 5 297.5 -1262.5 302.5 -1257.5 {name=analog_io_padres[0] dir=inout}
 B 5 297.5 -1382.5 302.5 -1377.5 {name=analog_io_padres[3] dir=inout}
-B 5 1117.5 -302.5 1122.5 -297.5 {name=analog_io_padres[9] dir=inout}
-B 5 1157.5 -302.5 1162.5 -297.5 {name=analog_io_padres[10] dir=inout}
-B 5 1197.5 -302.5 1202.5 -297.5 {name=analog_io_padres[11] dir=inout}
-B 5 1277.5 -302.5 1282.5 -297.5 {name=analog_io_padres[13] dir=inout}
 B 5 1937.5 -1102.5 1942.5 -1097.5 {name=analog_io_padres[14] dir=inout}
 B 5 1937.5 -1422.5 1942.5 -1417.5 {name=ui_PAD2CORE[8] dir=inout}
 B 5 1267.5 -1942.5 1272.5 -1937.5 {name=analog_io_padres[19] dir=inout}

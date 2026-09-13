@@ -110,7 +110,6 @@ N 2290 -300 2400 -300 {lab=VSS}
 N 2250 -260 2360 -260 {lab=IOVDD}
 N 2220 -240 2340 -240 {lab=IOVSS}
 N 2340 -100 2360 -100 {lab=IOVSS}
-N 880 -360 880 -160 {lab=analog_io_padres[5]}
 N 790 -160 790 -20 {lab=analog_io[5]}
 N 830 -120 830 -100 {lab=IOVSS}
 N 780 -100 830 -100 {lab=IOVSS}
@@ -120,14 +119,10 @@ N 840 -120 840 -100 {lab=VSS}
 N 840 -100 890 -100 {lab=VSS}
 N 890 -300 890 -100 {lab=VSS}
 N 730 -300 890 -300 {lab=VSS}
-N 820 -220 820 -200 {lab=IOVDD}
 N 690 -260 820 -260 {lab=IOVDD}
-N 830 -220 830 -200 {lab=IOVDD}
-N 820 -220 830 -220 {lab=IOVDD}
-N 820 -260 820 -220 {lab=IOVDD}
+N 820 -260 820 -200 {lab=IOVDD}
 N 840 -280 840 -200 {lab=VDD}
 N 700 -280 840 -280 {lab=VDD}
-N 1040 -360 1040 -160 {lab=analog_io_padres[6]}
 N 950 -160 950 -20 {lab=analog_io[6]}
 N 990 -120 990 -100 {lab=IOVSS}
 N 940 -100 990 -100 {lab=IOVSS}
@@ -135,16 +130,12 @@ N 940 -240 940 -100 {lab=IOVSS}
 N 1000 -120 1000 -100 {lab=VSS}
 N 1000 -100 1050 -100 {lab=VSS}
 N 1050 -300 1050 -100 {lab=VSS}
-N 980 -220 980 -200 {lab=IOVDD}
-N 990 -220 990 -200 {lab=IOVDD}
-N 980 -220 990 -220 {lab=IOVDD}
-N 980 -260 980 -220 {lab=IOVDD}
+N 980 -260 980 -200 {lab=IOVDD}
 N 1000 -280 1000 -200 {lab=VDD}
 N 780 -240 940 -240 {lab=IOVSS}
 N 890 -300 1050 -300 {lab=VSS}
 N 820 -260 980 -260 {lab=IOVDD}
 N 840 -280 1000 -280 {lab=VDD}
-N 1200 -360 1200 -160 {lab=analog_io_padres[7]}
 N 1110 -160 1110 -20 {lab=analog_io[7]}
 N 1150 -120 1150 -100 {lab=IOVSS}
 N 1100 -100 1150 -100 {lab=IOVSS}
@@ -152,16 +143,12 @@ N 1100 -240 1100 -100 {lab=IOVSS}
 N 1160 -120 1160 -100 {lab=VSS}
 N 1160 -100 1210 -100 {lab=VSS}
 N 1210 -300 1210 -100 {lab=VSS}
-N 1140 -220 1140 -200 {lab=IOVDD}
-N 1150 -220 1150 -200 {lab=IOVDD}
-N 1140 -220 1150 -220 {lab=IOVDD}
-N 1140 -260 1140 -220 {lab=IOVDD}
+N 1140 -260 1140 -200 {lab=IOVDD}
 N 1160 -280 1160 -200 {lab=VDD}
 N 940 -240 1100 -240 {lab=IOVSS}
 N 1050 -300 1210 -300 {lab=VSS}
 N 980 -260 1140 -260 {lab=IOVDD}
 N 1000 -280 1160 -280 {lab=VDD}
-N 1360 -360 1360 -160 {lab=analog_io_padres[8]}
 N 1270 -160 1270 -20 {lab=analog_io[8]}
 N 1310 -120 1310 -100 {lab=IOVSS}
 N 1260 -100 1310 -100 {lab=IOVSS}
@@ -169,16 +156,12 @@ N 1260 -240 1260 -100 {lab=IOVSS}
 N 1320 -120 1320 -100 {lab=VSS}
 N 1320 -100 1370 -100 {lab=VSS}
 N 1370 -300 1370 -100 {lab=VSS}
-N 1300 -220 1300 -200 {lab=IOVDD}
-N 1310 -220 1310 -200 {lab=IOVDD}
-N 1300 -220 1310 -220 {lab=IOVDD}
-N 1300 -260 1300 -220 {lab=IOVDD}
+N 1300 -260 1300 -200 {lab=IOVDD}
 N 1320 -280 1320 -200 {lab=VDD}
 N 1100 -240 1260 -240 {lab=IOVSS}
 N 1210 -300 1370 -300 {lab=VSS}
 N 1140 -260 1300 -260 {lab=IOVDD}
 N 1160 -280 1320 -280 {lab=VDD}
-N 1520 -360 1520 -160 {lab=analog_io_padres[9]}
 N 1430 -160 1430 -20 {lab=analog_io[9]}
 N 1470 -120 1470 -100 {lab=IOVSS}
 N 1420 -100 1470 -100 {lab=IOVSS}
@@ -186,16 +169,12 @@ N 1420 -240 1420 -100 {lab=IOVSS}
 N 1480 -120 1480 -100 {lab=VSS}
 N 1480 -100 1530 -100 {lab=VSS}
 N 1530 -300 1530 -100 {lab=VSS}
-N 1460 -220 1460 -200 {lab=IOVDD}
-N 1470 -220 1470 -200 {lab=IOVDD}
-N 1460 -220 1470 -220 {lab=IOVDD}
-N 1460 -260 1460 -220 {lab=IOVDD}
+N 1460 -260 1460 -200 {lab=IOVDD}
 N 1480 -280 1480 -200 {lab=VDD}
 N 1260 -240 1420 -240 {lab=IOVSS}
 N 1370 -300 1530 -300 {lab=VSS}
 N 1300 -260 1460 -260 {lab=IOVDD}
 N 1320 -280 1480 -280 {lab=VDD}
-N 1680 -360 1680 -160 {lab=analog_io_padres[10]}
 N 1590 -160 1590 -20 {lab=analog_io[10]}
 N 1630 -120 1630 -100 {lab=IOVSS}
 N 1580 -100 1630 -100 {lab=IOVSS}
@@ -203,16 +182,12 @@ N 1580 -240 1580 -100 {lab=IOVSS}
 N 1640 -120 1640 -100 {lab=VSS}
 N 1640 -100 1690 -100 {lab=VSS}
 N 1690 -300 1690 -100 {lab=VSS}
-N 1620 -220 1620 -200 {lab=IOVDD}
-N 1630 -220 1630 -200 {lab=IOVDD}
-N 1620 -220 1630 -220 {lab=IOVDD}
-N 1620 -260 1620 -220 {lab=IOVDD}
+N 1620 -260 1620 -200 {lab=IOVDD}
 N 1640 -280 1640 -200 {lab=VDD}
 N 1420 -240 1580 -240 {lab=IOVSS}
 N 1530 -300 1690 -300 {lab=VSS}
 N 1460 -260 1620 -260 {lab=IOVDD}
 N 1480 -280 1640 -280 {lab=VDD}
-N 1840 -360 1840 -160 {lab=analog_io_padres[11]}
 N 1750 -160 1750 -20 {lab=analog_io[11]}
 N 1790 -120 1790 -100 {lab=IOVSS}
 N 1740 -100 1790 -100 {lab=IOVSS}
@@ -220,15 +195,11 @@ N 1740 -240 1740 -100 {lab=IOVSS}
 N 1800 -120 1800 -100 {lab=VSS}
 N 1800 -100 1850 -100 {lab=VSS}
 N 1850 -300 1850 -100 {lab=VSS}
-N 1780 -220 1780 -200 {lab=IOVDD}
-N 1790 -220 1790 -200 {lab=IOVDD}
-N 1780 -220 1790 -220 {lab=IOVDD}
 N 1800 -280 1800 -200 {lab=VDD}
 N 1580 -240 1740 -240 {lab=IOVSS}
 N 1690 -300 1850 -300 {lab=VSS}
 N 1780 -260 1940 -260 {lab=IOVDD}
 N 1640 -280 1800 -280 {lab=VDD}
-N 2000 -360 2000 -160 {lab=analog_io_padres[12]}
 N 1910 -160 1910 -20 {lab=analog_io[12]}
 N 1950 -120 1950 -100 {lab=IOVSS}
 N 1900 -100 1950 -100 {lab=IOVSS}
@@ -236,15 +207,11 @@ N 1900 -240 1900 -100 {lab=IOVSS}
 N 1960 -120 1960 -100 {lab=VSS}
 N 1960 -100 2010 -100 {lab=VSS}
 N 2010 -300 2010 -100 {lab=VSS}
-N 1940 -220 1940 -200 {lab=IOVDD}
-N 1950 -220 1950 -200 {lab=IOVDD}
-N 1940 -220 1950 -220 {lab=IOVDD}
-N 1940 -260 1940 -220 {lab=IOVDD}
+N 1940 -260 1940 -200 {lab=IOVDD}
 N 1960 -280 1960 -200 {lab=VDD}
 N 1740 -240 1900 -240 {lab=IOVSS}
 N 1850 -300 2010 -300 {lab=VSS}
 N 1800 -280 1960 -280 {lab=VDD}
-N 2160 -360 2160 -160 {lab=analog_io_padres[13]}
 N 2070 -160 2070 -20 {lab=analog_io[13]}
 N 2110 -120 2110 -100 {lab=IOVSS}
 N 2060 -100 2110 -100 {lab=IOVSS}
@@ -252,10 +219,7 @@ N 2060 -240 2060 -100 {lab=IOVSS}
 N 2120 -120 2120 -100 {lab=VSS}
 N 2120 -100 2170 -100 {lab=VSS}
 N 2170 -300 2170 -100 {lab=VSS}
-N 2100 -220 2100 -200 {lab=IOVDD}
-N 2110 -220 2110 -200 {lab=IOVDD}
-N 2100 -220 2110 -220 {lab=IOVDD}
-N 2100 -260 2100 -220 {lab=IOVDD}
+N 2100 -260 2100 -200 {lab=IOVDD}
 N 2120 -280 2120 -200 {lab=VDD}
 N 1900 -240 2060 -240 {lab=IOVSS}
 N 2010 -300 2170 -300 {lab=VSS}
@@ -397,7 +361,7 @@ N 590 -120 590 -80 {lab=SUB}
 N 300 -80 590 -80 {lab=SUB}
 N 2370 -280 2370 -200 {lab=VDD}
 N 2260 -280 2370 -280 {lab=VDD}
-N 1780 -260 1780 -220 {lab=IOVDD}
+N 1780 -260 1780 -200 {lab=IOVDD}
 N 1620 -260 1780 -260 {lab=IOVDD}
 N 2520 -200 2520 -20 {lab=VSS}
 N 2540 -170 2540 -20 {lab=VDD}
@@ -1175,7 +1139,6 @@ N 1060 260 1260 260 {lab=IOVSS}
 N 1260 260 1260 320 {lab=IOVSS}
 N 1260 380 1260 420 {lab=SUB}
 N 1120 420 1260 420 {lab=SUB}
-N 1260 420 1360 420 {lab=SUB}
 N 1360 380 1360 420 {lab=SUB}
 N 1140 200 1360 200 {lab=VSS}
 N 1360 200 1360 320 {lab=VSS}
@@ -1216,24 +1179,48 @@ N 1610 -2620 1610 -2580 {lab=SUB}
 N 1610 -2620 1770 -2620 {lab=SUB}
 N 1450 -2620 1610 -2620 {lab=SUB}
 N 1640 -2500 1640 -2480 {lab=IOVDD}
+N 1260 420 1360 420 {lab=SUB}
+N 1560 420 1680 420 {lab=SUB}
+N 1560 380 1560 420 {lab=SUB}
+N 1360 420 1560 420 {lab=SUB}
+N 1680 380 1680 420 {lab=SUB}
+N 1100 240 1540 240 {lab=IOVDD}
+N 1540 240 1540 300 {lab=IOVDD}
+N 1660 240 1660 300 {lab=IOVDD}
+N 1540 240 1660 240 {lab=IOVDD}
+N 1520 380 1520 440 {lab=fill_iovss1[7:0]}
+N 1640 380 1640 440 {lab=fill_iovss1[7:0]}
+N 1550 280 1550 300 {lab=fill_vdd[7:0]}
+N 1550 280 1670 280 {lab=fill_vdd[7:0]}
+N 1670 280 1670 300 {lab=fill_vdd[7:0]}
+N 1550 380 1550 390 {lab=fill_vss[7:0]}
+N 1550 390 1670 390 {lab=fill_vss[7:0]}
+N 1670 380 1670 390 {lab=fill_vss[7:0]}
+N 1530 380 1530 480 {lab=fill_iovss2[7:0]}
+N 1650 380 1650 480 {lab=fill_iovss2[7:0]}
+N 1540 380 1540 520 {lab=fill_iovss3[7:0]}
+N 1660 380 1660 520 {lab=fill_iovss3[7:0]}
+N 1520 440 1640 440 {lab=fill_iovss1[7:0]}
+N 1530 480 1650 480 {lab=fill_iovss2[7:0]}
+N 1540 520 1660 520 {lab=fill_iovss3[7:0]}
 C {sg13g2_Corner_noptap.sym} 290 -160 0 0 {name=x5}
-C {sg13g2_IOPadAnalog.sym} 840 -160 0 0 {name=x6}
+C {sg13g2_IOPadRF.sym} 840 -160 0 0 {name=x6}
 C {sg13g2_IOPadVss.sym} 700 -160 0 0 {name=x10}
 C {sg13g2_Filler4000.sym} 400 340 0 0 {name=x11[7:0]}
 C {sg13g2_Filler1000.sym} 520 340 0 0 {name=x12[7:0]}
 C {sg13g2_Filler400.sym} 640 340 0 0 {name=x13[7:0]}
 C {sg13g2_Filler200.sym} 760 340 0 0 {name=x14[7:0]}
 C {sg13g2_IOPadVdd.sym} 580 -160 0 0 {name=x15}
-C {sg13g2_Filler4000.sym} 980 340 0 0 {name=x16[47:0]}
-C {sg13g2_Filler400.sym} 1100 340 0 0 {name=x17[47:0]}
-C {sg13g2_IOPadAnalog.sym} 1000 -160 0 0 {name=x1}
-C {sg13g2_IOPadAnalog.sym} 1160 -160 0 0 {name=x2}
-C {sg13g2_IOPadAnalog.sym} 1320 -160 0 0 {name=x3}
-C {sg13g2_IOPadAnalog.sym} 1480 -160 0 0 {name=x4}
-C {sg13g2_IOPadAnalog.sym} 1640 -160 0 0 {name=x11}
-C {sg13g2_IOPadAnalog.sym} 1800 -160 0 0 {name=x12}
-C {sg13g2_IOPadAnalog.sym} 1960 -160 0 0 {name=x13}
-C {sg13g2_IOPadAnalog.sym} 2120 -160 0 0 {name=x14}
+C {sg13g2_Filler4000.sym} 980 340 0 0 {name=x16[39:0]}
+C {sg13g2_Filler400.sym} 1100 340 0 0 {name=x17[39:0]}
+C {sg13g2_IOPadRF.sym} 1000 -160 0 0 {name=x1}
+C {sg13g2_IOPadRF.sym} 1160 -160 0 0 {name=x2}
+C {sg13g2_IOPadRF.sym} 1320 -160 0 0 {name=x3}
+C {sg13g2_IOPadRF.sym} 1480 -160 0 0 {name=x4}
+C {sg13g2_IOPadRF.sym} 1640 -160 0 0 {name=x11}
+C {sg13g2_IOPadRF.sym} 1800 -160 0 0 {name=x12}
+C {sg13g2_IOPadRF.sym} 1960 -160 0 0 {name=x13}
+C {sg13g2_IOPadRF.sym} 2120 -160 0 0 {name=x14}
 C {sg13g2_IOPadIOVdd.sym} 2260 -160 0 0 {name=x16}
 C {sg13g2_IOPadIOVss.sym} 2370 -160 0 0 {name=x17}
 C {iopin.sym} 60 -300 0 1 {name=p1 lab=VSS}
@@ -1355,15 +1342,6 @@ C {lab_pin.sym} 480 -1460 0 1 {name=p36 sig_type=std_logic lab=analog_io_padres[
 C {lab_pin.sym} 480 -1620 0 1 {name=p37 sig_type=std_logic lab=analog_io_padres[2]}
 C {lab_pin.sym} 480 -1780 0 1 {name=p38 sig_type=std_logic lab=analog_io_padres[3]}
 C {lab_pin.sym} 480 -1940 0 1 {name=p48 sig_type=std_logic lab=analog_io_padres[4]}
-C {lab_pin.sym} 2160 -360 3 1 {name=p49 sig_type=std_logic lab=analog_io_padres[13]}
-C {lab_pin.sym} 2000 -360 3 1 {name=p50 sig_type=std_logic lab=analog_io_padres[12]}
-C {lab_pin.sym} 1840 -360 3 1 {name=p51 sig_type=std_logic lab=analog_io_padres[11]}
-C {lab_pin.sym} 1680 -360 3 1 {name=p52 sig_type=std_logic lab=analog_io_padres[10]}
-C {lab_pin.sym} 1520 -360 3 1 {name=p53 sig_type=std_logic lab=analog_io_padres[9]}
-C {lab_pin.sym} 880 -360 1 0 {name=p54 sig_type=std_logic lab=analog_io_padres[5]}
-C {lab_pin.sym} 1040 -360 1 0 {name=p55 sig_type=std_logic lab=analog_io_padres[6]}
-C {lab_pin.sym} 1200 -360 1 0 {name=p56 sig_type=std_logic lab=analog_io_padres[7]}
-C {lab_pin.sym} 1360 -360 1 0 {name=p57 sig_type=std_logic lab=analog_io_padres[8]}
 C {lab_pin.sym} 2800 -1790 2 0 {name=p58 sig_type=std_logic lab=ui_PAD[7]}
 C {lab_pin.sym} 2800 -1630 2 0 {name=p59 sig_type=std_logic lab=ui_PAD[6]}
 C {lab_pin.sym} 2800 -1470 2 0 {name=p60 sig_type=std_logic lab=ui_PAD[5]}
@@ -1392,6 +1370,14 @@ C {lab_pin.sym} 1740 -2340 3 0 {name=p82 sig_type=std_logic lab=ui_PAD2CORE[14]}
 C {lab_pin.sym} 1580 -2340 3 0 {name=p83 sig_type=std_logic lab=uo_CORE2PAD}
 C {iopin.sym} -50 -120 2 0 {name=p84 lab=ui_PAD[14:0]}
 C {iopin.sym} -50 -90 2 0 {name=p85 lab=uo_PAD}
-C {iopin.sym} -50 -60 2 0 {name=p86 lab=analog_io_padres[19:0]}
+C {iopin.sym} -50 -60 2 0 {name=p86 lab=analog_io_padres[4:0]}
 C {iopin.sym} -50 -30 2 0 {name=p87 lab=ui_PAD2CORE[14:0]}
 C {iopin.sym} -50 0 2 0 {name=p88 lab=uo_CORE2PAD}
+C {iopin.sym} -50 30 2 0 {name=p49 lab=analog_io_padres[19:14]}
+C {sg13g2_Filler4000.sym} 1540 340 0 0 {name=x1[7:0]}
+C {sg13g2_Filler400.sym} 1660 340 0 0 {name=x2[7:0]}
+C {lab_wire.sym} 1630 280 0 0 {name=p50 sig_type=std_logic lab=fill_vdd[7:0]}
+C {lab_wire.sym} 1610 390 0 0 {name=p51 sig_type=std_logic lab=fill_vss[7:0]}
+C {lab_wire.sym} 1610 440 0 0 {name=p52 sig_type=std_logic lab=fill_iovss1[7:0]}
+C {lab_wire.sym} 1620 480 0 0 {name=p53 sig_type=std_logic lab=fill_iovss2[7:0]}
+C {lab_wire.sym} 1630 520 0 0 {name=p54 sig_type=std_logic lab=fill_iovss3[7:0]}
