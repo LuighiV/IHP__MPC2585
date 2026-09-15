@@ -1,0 +1,6 @@
+[submodule "dependencies/IHP__CDR4176"]
+	path = dependencies/IHP__CDR4176
+	url = https://github.com/Fundacion-Fulgor/IHP__CDR4176
+[submodule "dependencies/IHP__ADC8711"]
+	path = dependencies/IHP__ADC8711
+	url = https://github.com/Fundacion-Fulgor/IHP__ADC8711
