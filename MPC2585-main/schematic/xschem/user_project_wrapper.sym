@@ -1,4 +1,4 @@
-v {xschem version=3.4.8RC file_version=1.3}
+v {xschem version=3.4.8RC file_version=1.2}
 G {}
 K {type=subcircuit
 format="@name @pinlist @symname"
@@ -88,6 +88,15 @@ L 7 1270 -1960 1270 -1940 {}
 L 7 950 -1960 950 -1940 {}
 L 7 1070 -1960 1070 -1940 {}
 L 7 1150 -1960 1150 -1940 {}
+L 7 960 -300 960 -280 {}
+L 7 1000 -300 1000 -280 {}
+L 7 1040 -300 1040 -280 {}
+L 7 1080 -300 1080 -280 {}
+L 7 1120 -300 1120 -280 {}
+L 7 1160 -300 1160 -280 {}
+L 7 1200 -300 1200 -280 {}
+L 7 1240 -300 1240 -280 {}
+L 7 1280 -300 1280 -280 {}
 B 5 2237.5 -1022.5 2242.5 -1017.5 {name=VDD dir=inout}
 B 5 2237.5 -1062.5 2242.5 -1057.5 {name=VSS dir=inout}
 B 5 -2.5 -1102.5 2.5 -1097.5 {name=ui_PAD[0] dir=inout}
@@ -132,10 +141,10 @@ B 5 -2.5 -1022.5 2.5 -1017.5 {name=VDD dir=inout}
 B 5 -2.5 -1062.5 2.5 -1057.5 {name=VSS dir=inout}
 B 5 -2.5 -1462.5 2.5 -1457.5 {name=IOVDD dir=inout}
 B 5 -2.5 -1502.5 2.5 -1497.5 {name=IOVSS dir=inout}
-B 5 867.5 -2242.5 872.5 -2237.5 {name=IOVDD dir=inout}
-B 5 907.5 -2242.5 912.5 -2237.5 {name=IOVSS dir=inout}
-B 5 1307.5 -2242.5 1312.5 -2237.5 {name=VDD dir=inout}
-B 5 1347.5 -2242.5 1352.5 -2237.5 {name=VSS dir=inout}
+B 5 867.5 -2242.5 872.5 -2237.5 {name=VDD dir=inout}
+B 5 907.5 -2242.5 912.5 -2237.5 {name=VSS dir=inout}
+B 5 1307.5 -2242.5 1312.5 -2237.5 {name=IOVDD dir=inout}
+B 5 1347.5 -2242.5 1352.5 -2237.5 {name=IOVSS dir=inout}
 B 5 1317.5 -2.5 1322.5 2.5 {name=IOVDD dir=inout}
 B 5 1357.5 -2.5 1362.5 2.5 {name=IOVSS dir=inout}
 B 5 877.5 -2.5 882.5 2.5 {name=VDD dir=inout}
@@ -168,6 +177,15 @@ B 5 1267.5 -1942.5 1272.5 -1937.5 {name=analog_io_padres[19] dir=inout}
 B 5 947.5 -1942.5 952.5 -1937.5 {name=ui_PAD2CORE[9] dir=inout}
 B 5 1067.5 -1942.5 1072.5 -1937.5 {name=ui_PAD2CORE[12] dir=inout}
 B 5 1147.5 -1942.5 1152.5 -1937.5 {name=uo_CORE2PAD dir=inout}
+B 5 957.5 -302.5 962.5 -297.5 {name=analog_io_padres[5] dir=inout}
+B 5 997.5 -302.5 1002.5 -297.5 {name=analog_io_padres[6] dir=inout}
+B 5 1037.5 -302.5 1042.5 -297.5 {name=analog_io_padres[7] dir=inout}
+B 5 1077.5 -302.5 1082.5 -297.5 {name=analog_io_padres[8] dir=inout}
+B 5 1117.5 -302.5 1122.5 -297.5 {name=analog_io_padres[9] dir=inout}
+B 5 1157.5 -302.5 1162.5 -297.5 {name=analog_io_padres[10] dir=inout}
+B 5 1197.5 -302.5 1202.5 -297.5 {name=analog_io_padres[11] dir=inout}
+B 5 1237.5 -302.5 1242.5 -297.5 {name=analog_io_padres[12] dir=inout}
+B 5 1277.5 -302.5 1282.5 -297.5 {name=analog_io_padres[13] dir=inout}
 P 4 5 280 -1960 1960 -1960 1960 -280 280 -280 280 -1960 {}
 P 4 5 20 -20 2220 -20 2220 -2220 20 -2220 20 -20 {}
 T {@symname} 1400.5 -2126 0 0 0.5 0.5 {}
@@ -252,10 +270,10 @@ T {VDD} 25 -1024 0 0 0.25 0.25 {}
 T {VSS} 25 -1064 0 0 0.25 0.25 {}
 T {IOVDD} 25 -1464 0 0 0.25 0.25 {}
 T {IOVSS} 25 -1504 0 0 0.25 0.25 {}
-T {IOVDD} 874 -2215 1 0 0.25 0.25 {}
-T {IOVSS} 914 -2215 1 0 0.25 0.25 {}
-T {VSS} 1354 -2215 1 0 0.25 0.25 {}
-T {VDD} 1314 -2215 1 0 0.25 0.25 {}
+T {VDD} 874 -2215 1 0 0.25 0.25 {}
+T {VSS} 914 -2215 1 0 0.25 0.25 {}
+T {IOVSS} 1354 -2215 1 0 0.25 0.25 {}
+T {IOVDD} 1314 -2215 1 0 0.25 0.25 {}
 T {IOVDD} 1324 -25 1 1 0.25 0.25 {}
 T {IOVSS} 1364 -25 1 1 0.25 0.25 {}
 T {VSS} 924 -25 1 1 0.25 0.25 {}
