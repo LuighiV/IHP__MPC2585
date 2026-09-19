@@ -7,6 +7,6 @@
 [submodule "dependencies/IHP__DAC4133"]
 	path = dependencies/IHP__DAC4133
 	url = https://github.com/cadornes/IHP__DAC4133
-[submodule "dependencies/IHP__VCO0497"]
-	path = dependencies/IHP__VCO0497
-	url = https://github.com/joerdsonsilva/IHP_VCO0497
+[submodule "dependencies/IHP__VCO2497"]
+	path = dependencies/IHP__VCO2497
+	url = https://github.com/joerdsonsilva/IHP__VCO2497
