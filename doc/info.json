@@ -5,12 +5,17 @@
   "unique_id": "2585",
   "license": "Apache-2.0",
   "trl": 0,
-  "sealring_x": 1.0,
-  "sealring_y": 1.0,
-  "repository": "",
-  "pdk_version": "",
-  "process": "SG13CMOS",
-  "dependencies": {},
+  "sealring_x": 2000.0,
+  "sealring_y": 2000.0,
+  "repository": "https://github.com/LuighiV/IHP__MPC2585",
+  "pdk_version": "dev",
+  "process": "SG13G2",
+  "dependencies": {
+    "CDR4176": "https://github.com/Fundacion-Fulgor/IHP__CDR4176",
+    "ADC8711": "https://github.com/Fundacion-Fulgor/IHP__ADC8711",
+    "DAC4133": "https://github.com/cadornes/IHP__DAC4133",
+    "VCO2497": "https://github.com/joerdsonsilva/IHP__VCO2497"
+  },
   "tools": {},
   "top_cell_name": "MPC2585",
   "release": {
