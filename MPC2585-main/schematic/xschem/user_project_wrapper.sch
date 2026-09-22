@@ -1370,10 +1370,10 @@ C {lab_pin.sym} 1740 -2340 3 0 {name=p82 sig_type=std_logic lab=ui_PAD2CORE[14]}
 C {lab_pin.sym} 1580 -2340 3 0 {name=p83 sig_type=std_logic lab=uo_CORE2PAD}
 C {iopin.sym} -50 -120 2 0 {name=p84 lab=ui_PAD[14:0]}
 C {iopin.sym} -50 -90 2 0 {name=p85 lab=uo_PAD}
-C {iopin.sym} -50 -60 2 0 {name=p86 lab=analog_io_padres[4:0]}
-C {iopin.sym} -50 -30 2 0 {name=p87 lab=ui_PAD2CORE[14:0]}
+C {iopin.sym} -380 -170 2 0 {name=p86 lab=analog_io_padres[1:0]}
+C {iopin.sym} -60 100 2 0 {name=p87 lab=ui_PAD2CORE[2:0]}
 C {iopin.sym} -50 0 2 0 {name=p88 lab=uo_CORE2PAD}
-C {iopin.sym} -50 30 2 0 {name=p49 lab=analog_io_padres[19:14]}
+C {iopin.sym} -380 -140 2 0 {name=p49 lab=analog_io_padres[14]}
 C {sg13g2_Filler4000.sym} 1540 340 0 0 {name=x1[7:0]}
 C {sg13g2_Filler400.sym} 1660 340 0 0 {name=x2[7:0]}
 C {lab_wire.sym} 1630 280 0 0 {name=p50 sig_type=std_logic lab=fill_vdd[7:0]}
@@ -1381,3 +1381,4 @@ C {lab_wire.sym} 1610 390 0 0 {name=p51 sig_type=std_logic lab=fill_vss[7:0]}
 C {lab_wire.sym} 1610 440 0 0 {name=p52 sig_type=std_logic lab=fill_iovss1[7:0]}
 C {lab_wire.sym} 1620 480 0 0 {name=p53 sig_type=std_logic lab=fill_iovss2[7:0]}
 C {lab_wire.sym} 1630 520 0 0 {name=p54 sig_type=std_logic lab=fill_iovss3[7:0]}
+C {iopin.sym} -60 130 2 0 {name=p55 lab=ui_PAD2CORE[14:4]}
